@@ -1,0 +1,16 @@
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\bin\Debug\net8.0-windows\MovingHexagons.exe
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\bin\Debug\net8.0-windows\MovingHexagons.deps.json
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\bin\Debug\net8.0-windows\MovingHexagons.runtimeconfig.json
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\bin\Debug\net8.0-windows\MovingHexagons.dll
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\bin\Debug\net8.0-windows\MovingHexagons.pdb
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.Form1.resources
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.csproj.GenerateResource.cache
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.AssemblyInfoInputs.cache
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.AssemblyInfo.cs
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.csproj.CoreCompileInputs.cache
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.dll
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\refint\MovingHexagons.dll
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.pdb
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\MovingHexagons.genruntimeconfig.cache
+C:\Users\ucoskun\source\repos\MovingHexagons\MovingHexagons\obj\Debug\net8.0-windows\ref\MovingHexagons.dll
