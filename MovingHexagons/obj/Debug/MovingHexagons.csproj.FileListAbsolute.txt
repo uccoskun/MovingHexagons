@@ -1,0 +1,10 @@
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.csproj.AssemblyReference.cache
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.Form1.resources
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.Properties.Resources.resources
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.csproj.GenerateResource.cache
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.csproj.CoreCompileInputs.cache
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\bin\Debug\MovingHexagons.exe.config
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\bin\Debug\MovingHexagons.exe
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\bin\Debug\MovingHexagons.pdb
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.exe
+D:\UIUC-CEME\VisualStuido\MovingHexagons\MovingHexagons\MovingHexagons\obj\Debug\MovingHexagons.pdb
